@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Escudo UNAL" width="180">
+  <img src="docs/pdf/logo-unal.jpg" alt="Escudo UNAL" width="180">
 </p>
 
 # Programación Orientada a Objetos (2026-2S)
@@ -18,7 +18,7 @@ Este repositorio contiene la solución a los 5 ejercicios programados en **Java*
 ---
 
 ##  Estructura del Repositorio
-* **`src/actividad1`**: Contiene las clases de Java independientes de la solución en la raíz del directorio.
+* **`src/`**: Contiene las clases de Java independientes de la solución en la raíz del directorio.
 * **`docs/uml/`**: Contiene los diagramas de clases UML exportados en formato de imagen (`.png`).
 * **`docs/pdf/`**: Documento PDF consolidado con los enunciados y la justificación teórica.
 
